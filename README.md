@@ -1,15 +1,13 @@
-Um pouco sobre Diego...
+### Um pouco sobre Diego...
 
--> 📚 Professor Universitário 🖋
+- 📚 Professor Universitário 🖋
+- 💡 Entusiasta por tecnologia e educação 📚
+- 👩‍❤️‍👨 Casado e Pai de Pet's 🐶🐕🐩
 
--> 💡 Entusiasta por tecnologia e educação 📚
 
--> 👩‍❤️‍👨 Casado e Pai de Pet's 🐶🐕🐩
+### Áreas de Interesse:
 
--> 
-
-Áreas de Interesse:
-
--> Impressão 3D
--> Python
--> Ciência/Visualização de dados
+- Matemática Aplicada
+- Python
+- Ciência/Visualização de dados
+- Impressão 3D
