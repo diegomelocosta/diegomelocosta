@@ -8,6 +8,7 @@
 ### Áreas de Interesse:
 
 - Matemática Aplicada
+- Estatística
 - Python
 - Ciência/Visualização de dados
 - Impressão 3D
